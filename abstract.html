@@ -126,8 +126,10 @@
 		    <p>2.Showing the reasoning problem pictures. When volunteer is ready, the experiment begins. Each picture lasts up to 10s. If the volunteer has already choose an answer, the next picture will appear immediately.</p>
 		    <p>3.Confidence test. Replay the second part of the pictures, then the volunteer chooses the options that whether he or she comes up with the answer. So we can find out whether the volunteer is staying in confusion.</p>
 		    <h3>EEG Data</h3>
-		    <li>Original data</li>
+		    <p><strong>Original data</strong></p>
 		    <p>Our project contains 25 subjects. In every file, data is recorded as rows, one record corresponds to one row. There are 250 records in every second (collecting frequency is 250Hz). In Original data, a record has 11 columns. The first column is the serial number of the record. The second column to ninth column record the data of 8 sensors. The tenth column records the trigger (When come to next picture, the EEG headset will send a trigger to the collecting computer). And the eleventh column records the time mark.</p>
+		    <p><strong>Preprocessed data</strong></p>
+		    <p>For every row of record, we remove the first and the last column record (have no influence with the result). According to the trigger recorded in the tenth column, sperate the data as every picture. Every subject contains 58 files related to 58 pictures. The first file to the tenth file belong to the non-confusion group. As for other files, if the volunteer didn’t choose an answer in 10 seconds, then put the file into the confusion group. Others which has an answer will divided to two group according the confidence test. The pictures that doesn’t pass the confidence test will be discarded and the pictures that passed will be put into the confusion group. So that the confusion group and non-confusion is settled and we can use them to the next step like machine learning.</p>
 		    </ul>
                 <div class="code-block">
                     <!--//Use Prismjs - http://prismjs.com/index.html#basic-usage -->
