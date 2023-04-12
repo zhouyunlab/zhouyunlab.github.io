@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en"> 
+<head>
+    <title>zyLab</title>
+    
+    <!-- Meta -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Responsive Resume Template">
+    <meta name="author" content="Xiaoying Riley at 3rd Wave Media">    
+    <link rel="shortcut icon" href="favicon.ico"> 
+    
+    <!-- Google Font -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900" rel="stylesheet">
+    
+    <!-- FontAwesome JS-->
+    <script defer src="https://use.fontawesome.com/releases/v5.1.1/js/all.js" integrity="sha384-BtvRZcyfv4r0x/phJt9Y9HhnN5ur1Z+kZbKVgzVBAlQZX4jvAuImlIz+bG7TS00a" crossorigin="anonymous"></script>
+       
+    <!-- Theme CSS -->  
+    <link id="theme-style" rel="stylesheet" href="assets/css/pillar-1.css">
+
+
+</head> 
+
+<body>	
+
+    <article class="resume-wrapper text-center position-relative">
+	    <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
+		    <header class="resume-header pt-4 pt-md-0">
+			    <div class="media flex-column flex-md-row">
+				    <img class="mr-3 img-fluid picture mx-auto" src="assets/images/people2.jpg" alt="">
+				    <div class="media-body p-4 d-flex flex-column flex-md-row mx-auto mx-lg-0">
+					    <div class="primary-info">
+						    <h1 class="name mt-0 mb-1 text-white text-uppercase text-uppercase">周筠 </h1>
+						    <div class="title mb-3">教授<br/>陕西师范大学 教育学院</div>
+						    <ul class="list-unstyled">
+							    <li class="mb-2"><a href="#"><i class="far fa-envelope fa-fw mr-2" data-fa-transform="grow-3"></i>chouyun526@gmail.com </a></li>
+							    
+						    </ul>
+					    </div><!--//primary-info-->
+					     <div class="secondary-info ml-md-auto mt-2">
+
+						    <ul class="resume-social list-unstyled">
+                                      <li class="title mb-3"></i></span><a href="about.html">English</a></i>  </li>
+				      
+                                                <li class="mb-3"></i></span></a></li>
+                                                <li class="mb-3"></i></span></a></li>
+                                                <li></i></span></a></li>
+						    </ul>
+					    </div><!--//secondary-info-->
+					    
+				    </div><!--//media-body-->
+			    </div><!--//media-->
+		            </header>
+		            <div class="resume-body p-5">
+				      <div class="row">
+				    <div class="col-lg-9">
+			    <section class="resume-section summary-section mb-5">
+				    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">个人简介</h2>
+				    <div class="resume-section-content">
+					    <p>博士，教授，硕士生导师，现为陕西师范大学教育学院教育技术系教师。获法国中央理工计算机科学博士学位，目前从事智能交互、脑机交互及虚拟现实在教育中的应用等研究，著有专著1部，已有30余篇成果发表在领域内有影响力的国际会议及SCI期刊上，多篇SCI期刊审稿人，人工智能学会CAAI智能交互专委会委员，主持国家自然科学基金2项、陕西省自然科学基金1项等，参与多个项目。</p>
+				    <br/>
+				    </div><!--//resume-timeline-item-desc-->
+			    
+			  
+					    <section class="resume-section experience-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">教育经历</h2>
+						    <div class="resume-section-content">
+							<div class="position-relative">
+								    <article class="resume-item position-relative pb-5">
+
+												    <div class="d-flex flex-column flex-md-row">				    									    <div class="resume-timeline-item-header mb-2">
+										
+										        <h3 class="resume-position-title font-weight-bold mb-1"></h3>
+										        <div class="resume-company-name ml-auto"></div>
+										    </div><!--//row-->
+										    <div class="resume-position-time"></div>
+									    </div><!--//resume-timeline-item-header-->
+									    <div class="resume-timeline-item-desc">
+										     <p>北京师范大学 获双学位学士（主修教育技术学，辅修英语）</p>
+								                     <p>北京交通大学 获教育技术学理学硕士 </p>
+								                     <p>法国里昂中央理工学校 获计算机科学博士学位</p>
+										    <br/>
+										    
+			  </div><!--//resume-timeline-item-desc-->
+			
+			     
+			 
+			    
+			  
+					   
+									    
+									      <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">课程</h2>
+									    
+									
+									    <div class="resume-timeline-item-desc">
+										    
+									   <p>Python程序语言设计</p>
+								    <p>人机交互与在线学习设计原则</p>
+								    <p>教育数据挖掘 </p>
+								    <p>数据分析与机器学习</p>
+								    <p>虚拟现实教学资源建设与应用</p>
+								    <p>教育软件与大数据</p>	    
+										      <br/>
+							    </div><!--//resume-timeline-item-desc-->
+									    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">研究领域</h2>
+									    
+									
+									    <div class="resume-timeline-item-desc">
+										    
+									   <p>教育技术 人机交互</p>
+								    <p>主要研究方向：虚拟现实、3D学习资源、智能交互在教育中应用研究、认知情绪识别与教育脑机接口研究、人工智能技术精准帮扶农村教师的难点与解决路径研究</p>
+								      <br/>
+							    </div><!--//resume-timeline-item-desc-->
+									      <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">学术兼职</h2>
+									    
+									
+									    <div class="resume-timeline-item-desc">
+										    
+									
+								    <p>人工智能学会CAAI智能交互专委会委员</p>
+								      <br/>
+							    </div><!--//resume-timeline-item-desc-->
+									   
+					 
+										    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">科研项目</h2>
+									      <div class="resume-timeline-item-desc">
+									     <div class="resume-position-time">主持</div>
+										    <p>1. 国家自然科学基金面上项目，智能教学系统中基于脑机接口的困惑情绪识别与双向调节策略研究</p>
+										    <p>2. 国家自然科学基金青年项目，在线学习自适应交互中认知负荷与学习情绪的脑电表征及认知状态的评估与调整</p>
+										    <p>3. 陕西省自然科学基金，在线学习中基于计算机视觉的注意力识别与智能交互研究</p>
+										    <p>4. 陕西师范大学中央高校基本科研基金，基于眼动和表情识别的MOOCs视频视觉注意力机制研究</p>
+									     <div class="resume-position-time">参与</div>
+										    <p>1. 科技部国家重点研发计划“社会治理与智慧社会科技支撑(平安中国)”专项，农村地区教师教学能力智能评测与教学精准辅助技术研究</p>  
+										    <p>2. 横向，基于EEG的人脑焦虑、抑郁情绪量化评价方法参与</p>
+										    <p>3. 陕西省自然科学基金，基于多分辨率特征的无线传感器网络能量最优化模型及求解算法研究</p>
+								                    <p>4. 横向，基于家居智能看护机器人的老人反常行为感知关键技术研究</p>
+										    <p>5. 横向，教师教育信息化能力研修平台资源建设及应用</p>
+										    <p>6. 参与法国“eGonomy”项⽬，为法国9个知名企业、研究所及博物馆合作项目，包括法国国家博物馆联合会(RMN)，该项目旨在通过用户行为分析来为大型图片数据库交互提供多模、自然、智能的交互。主要负责与实施用户活动追踪分析与探索模块。</p>
+										    <p>7. 参与德国电信与美国Mozilla基金会关于Firefox OS的合作项目，该项目旨在打造安全友好的Firefox智能手机系统。主要负责与实施监测与用户评估模块。</p>
+										      <br/>
+									    </div><!--//resume-timeline-item-desc-->
+									
+						  <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">主要论文列表</h2>
+									      <div class="resume-timeline-item-desc">
+									     <div class="resume-position-time">专著</div>
+									 
+										    <p>基于上下文的智能感知交互模式与系统<br/>周筠 徐韬<br/>2015.11陕西师范大学出版社</p>
+										    <div class="resume-position-time">期刊 </div>
+										      
+										      <div class="row g-0 publication">
+										      <div class="col-sm-4 g-0">	      
+										      <div class="col-10 pub1col"><img src="assets/images/22.jpg"></div>
+										      </div>
+										      <div class="col-sm-8 p-1 pub2col"> 
+										       <p>Zhou, Y., Xu, T., Yang, H., Li, S.
+											  <em>Improving Spatial Visualization and Mental Rotation Using FORSpatial Through Shapes and Letters in Virtual Environment.</em>IEEE Transactions on Learning Technologies, 2022<br>
+											  <span class="item-buttons">
+											     <a data-toggle="collapse" href="#FORSpatial-abstract-1">
+												  <i class="far fa-sticky-note"></i>
+											     </a>
+											     <a href="assets/documents/22.pdf" target="_blank">
+                                                                                                 <i class="fas fa-file-pdf"></i>
+                                                                                             </a>
+											     <span class="venue-tags">
+                                                                                                  <label class="venue-tag">TLT</label>
+                                                                                              </span>
+											  </span>
+										       </p>
+											<p class="abstract collapse" id="FORSpatial-abstract-1">
+                                                                                         <em>Abstract:</em>Existing research on spatial ability recognizes the critical role played by spatial visualization and mental rotation. Recent evidence suggests that external visualization and manipulation can boost spatial thinking. 
+										The virtual environment provides an exciting opportunity so that many spatial ability training tasks based on reading printed illustrations can be migrated to a highly 3-D interactive and visualized environment. However, few studies have employed virtual reality (VR)
+                                                                                technology to improve spatial visualization and mental rotation. In addition, the design of training contents and corresponding VR applications are still lacking. In this work, we propose FORSpatial, a system mainly for spatial ability training in a virtual environment. First, in this article, we design a novel scheme and principles for generating tasks, involving spatial visualization
+and mental rotation through flexible combinations of shapes and letters. Based on this, we create testing questions and a FORSpatial training application in desktop VR. FORSpatial and its components are made publicly available and free to use. To evaluate the performance of spatial training, verify the usability of the FORSpatial application, and analyze learning behavior, we organized a user study with 49 .participants, including an experimental group and a control group. The comparison between experimental and control groups shows the significant improvement of spatial skills through training. The analysis of interaction logging data and subjective comments reveals how FORSpatial supports spatial thinking.   
+											      </p>
+                  
+										       </div>
+										       </div>
+  
+            
+										    
+										    <p>The influences of a virtual instructor's voice and appearance on learning from video lectures <a href="assets/documents/15.pdf" download>(PDF)</a><br/>Pi, Z., Deng, L., Wang, X., Guo, P., Xu, T., Zhou, Y.<br/>Journal of Computer Assisted Learning, 2022</p>
+										    <p>Decode Brain System: A Dynamic Adaptive Convolutional Quorum Voting Approach for Variable-Length EEG Data <a href="assets/documents/14.pdf" download>(PDF)</a><br/>Xu, T., Zhou, Y., Hou, Z., Zhang, W.<br/>Complexity, 2020:1-9, 2020</p>
+										    <p>Beyond Engagement: an EEG-based Methodology for Assessing User's Confusion in Educational Game <a href="assets/documents/13.pdf" download>(PDF)</a><br/>Zhou, Y., Xu, T., Li, S., Shi R.<br/>Universal Access in the Information Society, accepted, 2019</p>
+										    <p>User Attitudes and Behaviors towards Personalized Control of Privacy Settings on Smartphones <a href="assets/documents/01.pdf" download>(PDF)</a><br/>Zhou, Y., Qi L., Raake A., Xu T.<br/>Piekarska M., Zhang X. Concurrency and Computation Practice and Experience, online, 2018</p>
+										    <p>Interaction on-the-go: a fine-grained exploration on wearable PROCAM interfaces and gestures in mobile situations <a href="assets/documents/02.pdf" download>(PDF)</a><br/>Zhou, Y., Xu, T., David, B., Chalon, R.Universal Access in the Information Society,15(2):1-15, 2015</p>
+										    <p>Innovative Wearable Interfaces: An Exploratory Analysis of Paper-based Interfaces with Camera-glasses Device Unit <a href="assets/documents/03.pdf" download>(PDF)</a><br/>Zhou, Y., Xu, T., David, B., Chalon, R. Journal of Personal and Ubiquitous Computing, 18(4):835-849, 2013</p>
+								                    <p>New Advances and Challenges of Fall Detection Systems: A Survey <a href="assets/documents/04.pdf" download>(PDF)</a><br/>Xu, T. Zhou, Y., Zhu, J<br/>Applied Science, 8(3) 2018</p>
+										    <p>Elders’ fall detection based on biometrics features by the depth camera (PDF)<br/>Xu, T. Zhou, Y.<br/>International Journal of Wavelets, Multiresolution and Information Processing, 16(2) 2018</p>
+										    <p>Fall prediction based on biomechanics equilibrium using Kinect <a href="assets/documents/05.pdf" download>(PDF)</a><br/>Xu, T. Zhou, Y.<br/>International Journal of Distributed Sensor Networks, 13(4) 2017</p>
+										    <p>Smart Brain: an Intelligence Context Inference Engine for Context-aware Middleware (PDF)<br/>Xu, T. Zhou, Y., David, B., Chalon, R.<br/>International Journal of Sensor Networks, 22(3):145-157, 2016</p>
+                                                                                    										     									      
+                                                                                    <div class="resume-position-time">会议 </div>
+										    <p>My English Teachers Are Not Human but I Like Them: Research on Virtual Teacher Self-study Learning System in K12 <a href="assets/documents/21.pdf" download>(PDF)</a><br/>Deng, L., Zhou, Y., Cheng, T., Liu, X., Xu, T., Wang, X.<br/>International Conference on Human-Computer Interaction (HCII 2022), Springer, Cham, 176-187, 2022</p>
+										    <p>Technical Supports and Emotional Design in Digital Picture Books for Children: A Review <a href="assets/documents/20.pdf" download>(PDF)</a><br/>Bai, J., Zhang, H., Chen, Q., Cheng, X., Zhou, Y.<br/>The 13th International Conference on Ambient Systems, Networks and Technologies (ANT 2022), 201: 174-180, 2022</p>
+										    <p>EyeBox: A Toolbox based on Python3 for Eye Movement Analysis <a href="assets/documents/19.pdf" download>(PDF)</a><br/>Zhang, L., Liu, X., Chen, Q., Zhou, Y., Xu, T.<br/>The 13th International Conference on Ambient Systems, Networks and Technologies (ANT 2022), 201: 166-173, 2022</p>
+										    <p>Exploring Persona Characteristics in Learning: A Review Study of Pedagogical Agents <a href="assets/documents/18.pdf" download>(PDF)</a><br/>Tao, Y., Zhang, G., Zhang, D., Wang, F., Zhou, Y., Xu, T.<br/>The 13th International Conference on Ambient Systems, Networks and Technologies (ANT 2022), 201: 87-94, 2022</p>
+										    <p>Visualized Cues for Enhancing Spatial Ability Training in Virtual Reality <a href="assets/documents/PPT2.pdf" download>(PPT)</a><a href="assets/documents/17.pdf" download>(PDF)</a><br/>Chen, Q., Deng, L., Xu, T., Zhou, Y.<br/>2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), IEEE, 299-300, 2022</p>
+										    <p>Improving Language Learning by an Interact-to-Learn Desktop VR Application: A Case Study with Peinture <a href="assets/documents/PPT1.pdf" download>(PPT)</a><a href="assets/documents/16.pdf" download>(PDF)</a><br/>Liu, X., Zhang, S., Xu, T., Zhou, Y.<br/>2022 IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), IEEE, 267-270, 2022</p>
+										    <p>A Semi-automatic Feature Fusion Model for EEG-based Emotion Recognition <a href="assets/documents/24.pdf" download>(PDF)</a><br/>Zhang, G., Li, S., Wang, J., Zhou, Y., Xu, T.<br/>2021 27th International Conference on Mechatronics and Machine Vision in Practice (M2VIP), 726-731, 2021</p>
+										    <p>From Textbook to Teacher: an Adaptive Intelligent Tutoring System Based on BCI <a href="assets/documents/23.pdf" download>(PDF)</a><br/>Xu, T., Wang, X., Wang, J., Zhou, Y.<br/>2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 7621-7624, 2021</p>
+										    <p>Guess or Not? A Brain-Computer Interface Using EEG Signals for Revealing the Secret behind Scores.<a href="assets/documents/06-2.mp4" download>(VEDIO)</a> <a href="assets/documents/06.pdf" download>(PDF)</a><br/>Xu, T., Zhou, Y., Wang Y., Zhao Z., Li S.<br/>In CHI Conference on Human Factors in Computing Systems Extended Abstracts (CHI’19 Extended Abstracts)</p>
+										    <p>Confusion State Induction and EEG-based Detection in Learning English <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8512943">(PDF)</a><br/>Zhou, Y., Xu, T., Li S., Li S.<br/>In 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 3290-3293, 2018</p>
+										    <p>Learning Emotions EEG-based Recognition and Brain Activity: A Survey Study on BCI for Intelligent Tutoring System <a href="assets/documents/12.pdf" download>(PDF)</a><br/>Xu, T., Zhou, Y., Wang Z., Peng, Y.<br/>The 9th International Conference on Ambient Systems, Networks and Technologies (ANT 2018), 376-382, 2018</p>
+										    <p>Learning in Doing: A Model of Design and Assessment for Using New Interaction in Educational Game <a href="assets/documents/08.pdf" download>(PDF)</a><br/>Zhou, Y., Xu, T., Zhi X., Wang Z.<br/>International Conference on Learning and Collaboration Technologies LCT 2018: Learning and Collaboration Technologies, Learning and Teaching, 225-236, 2018</p>
+										    <p>Promoting Knowledge Construction: A Model for Using Virtual Reality Interaction to Enhance Learning <a href="assets/documents/09.pdf" download>(PDF)</a><br/>Zhou, Y., Ji S., Xu, T., Wang Z.<br/>The 9th International Conference on Ambient Systems, Networks and Technologies (ANT 2018), 239-246, 2018</p>
+								                    <p>Monitoring cognitive workload in online videos learning through an EEG-based brain-computer interface <a href="assets/documents/10.pdf" download>(PDF)</a><br/>Zhou, Y., Xu, T., Cai, Y., Wu, X., Dong B.<br/>International Conference on Learning and Collaboration Technologies LCT 2017: Learning and Collaboration Technologies, Learning and Teaching, 64-73, 2017 </p>
+										    <p>Supporting Activity Context Recognition in Context-aware Middleware (PDF)<br/>Xu, T. Zhou, Y., David, B., Chalon, R.<br/>Workshops at the Twenty-Seventh AAAI Conference on Artificial Intelligence (AAAI’13), Bellevue, Washington, USA, (2013)</p>
+										    <p>A Context-aware Middleware for Ambient Intelligence <a href="assets/documents/11.pdf" download>(PDF)</a><br/>Xu, T., David, B., Chalon, R., Zhou, Y.<br/>ACM/IFIP/USENIX 12th International Middleware Conference (Middleware 2011), Poster session, Lisbon, Portugal, 2011</p>
+										    
+										    
+									    </div><!--//resume-timeline-item-desc-->
+							    
+							  
+							    
+							    
+							    
+							    
+						   
+					    </section><!--//experience-section-->
+				    </div>
+				    <div class="col-lg-3">
+					    <section class="resume-section skills-section mb-5">
+						    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">公告</h2>
+						    <div class="resume-section-content">
+						        <div class="resume-skill-item" >
+							        <div class="resume-degree-org" style="height:160px"></div>
+								
+								         
+								           </ul>
+						    </div>
+								      
+					</div><!--//row-->
+					    
+					           
+			
+		                                    <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">数据库与工具</h2>
+                                                    <div class="resume-section-content" >
+                                                    <div class="d-flex flex-column flex-md-row">				    									    
+							<div class="resume-timeline-item-header mb-2">
+										
+										        <h3 class="resume-position-title font-weight-bold mb-1"></h3>
+										        <div class="resume-company-name ml-auto"></div>
+										    </div><!--//row-->
+										    <div class="resume-position-time"></div>
+									    </div><!--//resume-timeline-item-header-->
+						        <div class="resume-timeline-item-desc">
+							<P>Confusion EEG DB</P>	
+                                                        <!-- <P><a href="Edu1.html">Confusion EEG DB</a></P> -->
+                                                        <P><a href="FORSpatial.html">FORSpatial</a></P>
+						        </div>
+								   
+								      
+	   
+			    
+		    </div><!--//resume-body-->
+		    
+		    
+	    </div>
+    </article>  
+
+
+    
+    <footer class="footer text-center pt-2 pb-5">
+	     <!--/* This template is released under the Creative Commons Attribution 3.0 License. Please keep the attribution link below when using for your own project. Thank you for your support. :) If you'd like to use the template without the attribution, you can buy the commercial license via our website: themes.3rdwavemedia.com */-->
+                <small class="copyright">Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank">Xiaoying Riley</a> for developers</small>
+    </footer>
+
+    
+
+</body>
+</html> 
