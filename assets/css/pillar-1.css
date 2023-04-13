@@ -59,6 +59,22 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.venue-tags {
+    float: right;
+}
+
+.venue-tag {
+    background-color: #027193;
+    color: #fefefe;
+    border-radius: 3px;
+    padding: 1px 2px;
+    margin: 2px;
+    font-size: 0.8rem;
+    font-style: italic;
+    width: fit-content;
+    height: 1.25rem;
+}
+
 @-ms-viewport {
   width: device-width;
 }
