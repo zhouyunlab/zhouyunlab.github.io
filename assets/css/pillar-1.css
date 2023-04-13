@@ -59,6 +59,11 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.myseven:hover{
+  margin:200px;
+  transform:scale(1.4);
+}
+
 .venue-tags {
     float: right;
 }
