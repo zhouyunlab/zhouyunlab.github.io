@@ -1528,10 +1528,15 @@ Intelligent (AmI).
 								   
 								      
 					   
-			 <div class="row">
+			<div class="row">
     <div class="col-12">
-        <section class="resume-section skills-section mb-5">
-            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3">数据库与工具</h2>
+        <section class="resume-section skills-section mb-5" style="position:relative;">
+            <h2 class="resume-section-title text-uppercase font-weight-bold pb-3 mb-3" style="--remove-timeline-dot:1;">数据库与工具</h2>
+            <style>
+                .resume-section-title[style*="--remove-timeline-dot"]::before {
+                    display:none !important;
+                }
+            </style>
             <div class="resume-section-content">
                 <div class="resume-timeline-item">
                     <div class="resume-timeline-item-header mb-2">
@@ -1549,6 +1554,7 @@ Intelligent (AmI).
         </section>
     </div>
 </div>
+
 
 
     
